@@ -1,0 +1,30 @@
+.wsmenu {
+    right: -240px !important;
+    left: auto !important;
+}
+
+.wsoffcanvasopener .wsmenu {
+    left: auto;
+    right: 0px !important;
+}
+
+.wsmenucontainer.wsoffcanvasopener {
+    margin-left: 0px !important;
+    margin-right: 240px !important;
+}
+
+.wsoffcanvasopener .animated-arrow {
+    left: auto !important;
+    right: 240px !important;
+}
+
+.animated-arrow {
+    left: auto !important;
+    right: 0px !important;
+    margin: 18px 21px 0 0px;
+}
+
+.callusicon {
+    left: 18px;
+    right: auto !important;
+}
