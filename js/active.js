@@ -43,7 +43,7 @@
         $('.owl-item.active .single_slide .slide_text h3').addClass('animated custom_slideInUp_2').show();
         $('.owl-item.active .single_slide .slide_text .btn').addClass('animated custom_slideInUp_btn_1').show();
     })
-    
+
     // Testimonials Slider Active Code
     if ($.fn.owlCarousel) {
         $(".testimonials, .special_dishes_slider").owlCarousel({
@@ -378,14 +378,6 @@
             $('.main_header_area').removeClass('sticky slideInDown');
             $('body').removeClass('mobile_menu_on');
         }
-    });
-
-    // Preloader active code
-    $(window).on('load', function () {
-        $('body').css('overflow-y', 'visible');
-        $('#preloader').fadeOut('slow', function () {
-            $(this).remove();
-        });
     });
 
 })(jQuery);
