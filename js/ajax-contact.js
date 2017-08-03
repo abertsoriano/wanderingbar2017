@@ -13,39 +13,34 @@ $(function () {
 
         // Serialize the form data.
         var formData = $(form).serialize();
+        var $submit = $('#btn-send');
 
-        // Submit the form using AJAX.
+        $submit.text('Enviando...').prop('disabled', true);
+        $(formMessages).removeClass('success error').html('');
         $.ajax({
                 type: 'POST',
                 url: $(form).attr('action'),
-                data: formData
+                data: formData,
+                dataType: 'json'
             })
             .done(function (response) {
                 // Make sure that the formMessages div has the 'success' class.
-                $(formMessages).removeClass('error');
-                $(formMessages).addClass('success');
+                $(formMessages)
+                    .removeClass('error')
+                    .addClass('success')
+                    .html(response.success_message);
 
-                // Set the message text.
-                $(formMessages).text('Thanks! Message has been sent.');
-
-                // Clear the form.
-                $('#name').val('');
-                $('#email').val('');
-                $('#message').val('');
+                $(form).reset();
             })
-            .fail(function (data) {
+            .fail(function (data, err) {
                 // Make sure that the formMessages div has the 'error' class.
-                $(formMessages).removeClass('success');
-                $(formMessages).addClass('error');
-
-                // Set the message text.
-                if (data.responseText !== '') {
-                    $(formMessages).text(data.responseText);
-                } else {
-                    $(formMessages).text('Oops! An error occured.');
-                }
+                console.log(err);
+                $(formMessages)
+                    .removeClass('success')
+                    .addClass('error')
+                    .text(data.responseJSON.error_message);
+            }).always(function() {
+                $submit.prop('disabled', false).text('Reservar o Cotizar Barra');
             });
-
     });
-
 });

@@ -95,11 +95,6 @@
         $('.item').matchHeight();
     }
 
-    // PreventDefault a Click
-    $("a[href='#']").on('click', function ($) {
-        $.preventDefault();
-    });
-
     // Sticky Active Code
     $(window).on('scroll', function () {
         // Fadeout text code
