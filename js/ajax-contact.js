@@ -30,7 +30,7 @@ $(function () {
                     .addClass('success')
                     .html(response.success_message);
 
-                $(form).reset();
+                $(form)[0].reset();
             })
             .fail(function (data, err) {
                 // Make sure that the formMessages div has the 'error' class.
