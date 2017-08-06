@@ -1155,6 +1155,18 @@ video {
         -ms-transition: all 0.4s ease-in-out;
         transition: all 0.4s ease-in-out;
     }
+
+  .callusiconBE {
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 102;
+        -webkit-transition: all 0.4s ease-in-out;
+        -moz-transition: all 0.4s ease-in-out;
+        -o-transition: all 0.4s ease-in-out;
+        -ms-transition: all 0.4s ease-in-out;
+        transition: all 0.4s ease-in-out;
+
     .callusicon {
         color: #c9c9c9;
         font-size: 21px;
