@@ -1,0 +1,717 @@
+@media only screen and (min-width: 1200px) {
+    nav.navbar.bootsnav ul.nav>li>a {
+        padding: 34px 15px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .app_landing_version .total_subscriber_text>h3 {
+        font-size: 20px
+    }
+    .default-title h2 {
+        font-size: 50px
+    }
+    .about_us_thumb_2 {
+        right: 15px;
+        top: 30px
+    }
+    .landing_one_version .mainmenu ul#nav li a {
+        padding: 39px 10px
+    }
+    .landing_one_version .about_single_part_area .about_text {
+        width: 470px
+    }
+    .resume_version .about_me_img {
+        left: 0;
+        margin-bottom: 30px;
+        position: relative;
+        top: 0;
+        width: 100%;
+        z-index: 2
+    }
+    .resume_version .about_me_text {
+        display: block;
+        margin-left: 0;
+        width: 100%
+    }
+    .spa_version .spa_cta_area {
+        margin-left: -490px;
+        width: 970px
+    }
+    .restaurant_version .contact_form {
+        width: 455px
+    }
+    .navbar-nav>li>a {
+        padding: 34px 10px;
+    }
+    .navbar-right .dropdown-menu {
+        width: 200px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .agency_cool_facts .cool_fact_text {
+        width: 50%
+    }
+    .default-title h2 {
+        font-size: 50px
+    }
+    .agency_version .agency_about_img {
+        display: block;
+        float: none;
+        width: 100%;
+        height: 500px
+    }
+    .agency_version .about_us_text {
+        margin: 15px;
+        padding: 15px
+    }
+    .agency_version .our_speciality_area {
+        float: none;
+        width: 100%
+    }
+    .app_landing_version .total_subscriber_text>a {
+        display: block;
+        float: none;
+        margin: 0 auto
+    }
+    .mainmenu ul#nav li a {
+        padding: 39px 10px
+    }
+    .about_us_thumb_2 {
+        right: 15px;
+        top: 30px
+    }
+    .single_choose_us:before {
+        height: 100%;
+        left: -55%;
+        top: 0;
+        -webkit-transform: skewX(-40deg);
+        transform: skewX(-40deg);
+        width: 140%
+    }
+    .single_choose_us:hover:before {
+        width: 210%
+    }
+    .choose_us_overlay_text p {
+        font-size: 14px
+    }
+    .modal-dialog {
+        width: 600px !important
+    }
+    .education-version .about_us_thumb {
+        margin-top: 30px
+    }
+    .education-version .why_choose_us_text {
+        margin-top: 50px
+    }
+    .fitness_version .about_us_thumb {
+        margin-top: 30px
+    }
+    .fitness_version .gallery_area_heading>h3 {
+        font-size: 50px
+    }
+    .special_area_image {
+        margin-top: 50px
+    }
+    .landing_one_version .mainmenu ul#nav li a {
+        font-size: 13px;
+        padding: 39px 3px
+    }
+    .landing_one_version .about_single_part_area .about_text {
+        width: 375px
+    }
+    .gallery_info p,
+    .gallery_info h5 {
+        font-size: 14px
+    }
+    .minimalist_portfolio .message_title,
+    .minimalist_portfolio .about_us_thumb {
+        margin-top: 30px
+    }
+    .resume_version .about_me_img {
+        left: 0;
+        margin-bottom: 30px;
+        position: relative;
+        top: 0;
+        width: 100%;
+        z-index: 2
+    }
+    .resume_version .about_me_text {
+        display: block;
+        margin-left: 0;
+        width: 100%
+    }
+    .spa_version .spa_cta_area {
+        margin-left: -381px;
+        width: 750px
+    }
+    .spa_section_heading h2 {
+        font-size: 30px
+    }
+    .single_gallery_item {
+        width: 50%
+    }
+    .resume_version .introduction_area {
+        height: 50%;
+        left: 0;
+        top: 0;
+        width: 100%
+    }
+    .resume_version .resume_single_part {
+        height: 25%;
+        width: 50%
+    }
+    .resume_version .profile_area {
+        left: 0;
+        top: 50%
+    }
+    .resume_version .skills_area {
+        left: 50%;
+        top: 50%
+    }
+    .resume_version .portfolio_area {
+        top: 75%;
+        left: 0
+    }
+    .resume_version .contact_area {
+        top: 75%;
+        left: 50%
+    }
+    .restaurant_version .contact_form {
+        width: 345px
+    }
+    .product_landing .about_product_thumb {
+        margin-bottom: 50px
+    }
+    .product_landing .download_app {
+        height: 500px;
+        width: 100%
+    }
+    .product_landing .download_app_text {
+        color: #fff;
+        float: none;
+        text-align: center;
+        width: 100%
+    }
+    .product_landing.our_speciality_area .special_area_description,
+    .product_landing.our_speciality_area .special_img {
+        display: inline-block;
+        float: none;
+        height: 500px;
+        text-align: center;
+        width: 100%
+    }
+    .product_landing .special_text {
+        padding-left: 0;
+        width: 100%
+    }
+    .accordions.last {
+        margin-top: 15px
+    }
+    .resume_version .single_gallery_item {
+        width: 100%;
+    }
+    .gallery_menu.resume_portfolio_nav .portfolio-menu button {
+        padding: 5px;
+    }
+    .business_startup_wc_text h2 {
+        font-size: 130px;
+    }
+    nav.navbar {
+        width: 100%;
+    }
+    nav.navbar.bootsnav ul.nav>li>a {
+        background-color: #fff;
+        color: #888;
+        padding: 10px 15px;
+    }
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu>li>a {
+        background-color: #fff;
+        color: #888;
+        padding: 10px 15px;
+    }
+    nav.navbar.bootsnav ul.nav li.megamenu-fw>a:hover,
+    nav.navbar.bootsnav ul.nav li.megamenu-fw>a:focus,
+    nav.navbar.bootsnav ul.nav li.active>a:hover,
+    nav.navbar.bootsnav ul.nav li.active>a:focus,
+    nav.navbar.bootsnav ul.nav li.active>a {
+        background-color: #fff;
+    }
+    nav.navbar.bootsnav {
+        background-color: #fff !important;
+    }
+    nav.bootsnav .megamenu-content .content {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .default-title h2 {
+        font-size: 30px
+    }
+    .default-description>p,
+    h2.default-description {
+        font-size: 16px
+    }
+    .timeline_text_content>p {
+        font-size: 13px
+    }
+    .timeline_text_content>h3 {
+        font-size: 14px
+    }
+    .app_landing_version .timeline_text_content>h3 {
+        font-size: 12px
+    }
+    .app_landing_version .timeline_text_content>p {
+        font-size: 12px
+    }
+    .single_timeline_block .timeline_text_content {
+        width: calc(50% - 40px)
+    }
+    .single_timeline_block.even-item .timeline_text_content:before {
+        left: calc(100% + 39px)
+    }
+    .single_timeline_block.odd-item .timeline_text_content:before {
+        right: calc(100% + 39px)
+    }
+    .timeline_text_content {
+        padding: 10px
+    }
+    .agency_version .agency_about_img {
+        display: block;
+        float: none;
+        width: 100%;
+        height: 500px
+    }
+    .agency_version .about_us_text {
+        margin: 15px;
+        padding: 15px
+    }
+    .agency_version .our_speciality_area {
+        float: none;
+        width: 100%
+    }
+    .video_play_area>h3 {
+        font-size: 18px
+    }
+    .gallery_menu .portfolio-menu button {
+        padding: 4px
+    }
+    .single_gallery_item {
+        width: 100%
+    }
+    .agency_version .single_advisor_details_info {
+        padding: 15px
+    }
+    .agency_version .view_more>a {
+        bottom: 25px;
+        right: 15px
+    }
+    .agency_cool_facts .cool_fact_text {
+        float: left;
+        margin: 0;
+        width: 100%;
+        padding: 50px 0
+    }
+    .cool_fact_text>h2 {
+        font-size: 24px
+    }
+    .cool_fact_text>h4 {
+        font-size: 14px
+    }
+    .agency_cool_facts .cool_fact_text:first-child:before,
+    .agency_cool_facts .cool_fact_text:last-child:before {
+        display: none
+    }
+    .agency_version .social_links_area {
+        padding: 0 0 30px 0;
+        text-align: center
+    }
+    .agency_version .footer_bottom {
+        padding: 0;
+        text-align: center
+    }
+    .app_landing_version .single_about_part .feature_icon {
+        display: none
+    }
+    .about_us_thumb_2 {
+        right: 15px;
+        top: 30px
+    }
+    .gallery_menu ul>li {
+        padding: 6px
+    }
+    .modal-dialog {
+        width: 300px !important
+    }
+    .live_preview>a {
+        font-size: 14px
+    }
+    .faq_area.two {
+        margin-top: 30px
+    }
+    .single_choose_us {
+        width: 100%
+    }
+    .single_choose_us:before {
+        left: -50%;
+        top: 0;
+        -webkit-transform: skewX(-40deg);
+        transform: skewX(-40deg);
+        width: 130%
+    }
+    .single_choose_us:hover:before {
+        width: 200%
+    }
+    .choose_us_overlay_text p {
+        font-size: 14px
+    }
+    .mean-container a.meanmenu-reveal {
+        padding: 34px 20px
+    }
+    .creative_version .partner_company_area {
+        padding: 100px 30px 0
+    }
+    .education-version .about_us_thumb {
+        margin-top: 30px
+    }
+    .education-version .why_choose_us_text {
+        margin-top: 50px
+    }
+    .education-version .contact_address_area {
+        margin-left: -150px;
+        width: 300px
+    }
+    .fitness_version .one-fitenss {
+        margin-top: 90px
+    }
+    .fitness_version #slide-fitness-text>h2,
+    .fitness_version .one-fitenss-2 h2,
+    .fitness_version .one-fitenss-3 h2,
+    .fitness_version .one-fitenss h2 span {
+        font-size: 45px
+    }
+    .about_area.fitness_version {
+        padding: 100px 0
+    }
+    .fitness_version .about_us_text>h3 {
+        font-size: 30px;
+        margin: 0
+    }
+    .fitness_version .about_us_thumb {
+        margin-top: 50px
+    }
+    .fitness_version .gallery_area_heading>h3 {
+        font-size: 30px;
+        right: 30px
+    }
+    #schedule-tab.nav-tabs>li>a {
+        padding: 5px
+    }
+    #schedule-tab.nav-tabs>li {
+        margin-bottom: 15px
+    }
+    .single_schedule {
+        display: block
+    }
+    .single_schedule .course_title,
+    .single_schedule .course_time,
+    .single_schedule .course_trainer,
+    .single_schedule .join_now_btn {
+        display: block;
+        float: none;
+        text-align: left;
+        width: 100%;
+        margin-bottom: 5px
+    }
+    .single_schedule .join_now_btn>a {
+        padding: 5px 15px
+    }
+    .fitness_version .fitness_cta_text h3 {
+        font-size: 30px
+    }
+    .fitness_version .footer_text_area {
+        margin-top: 50px
+    }
+    .special_area_image {
+        margin-top: 50px
+    }
+    .hosting_version.domain_search_area .form-control.search_box {
+        width: 65%
+    }
+    .hosting_version.domain_search_area .btn.btn-default.submit_btn {
+        width: 30%
+    }
+    .hosting_version .why_choose_thumb {
+        margin-bottom: 50px
+    }
+    .hosting_version.price_plan_area .single_price_plan {
+        display: block;
+        float: none;
+        width: 100%;
+        border-radius: 6px
+    }
+    .hosting_version .call_to>h3 {
+        margin-bottom: 30px;
+        margin-right: 0
+    }
+    .landing_one_version .landing_hero_text>h2 {
+        font-size: 40px
+    }
+    .landing_one_version .about_single_part_area .about_thumb {
+        display: block;
+        float: none;
+        width: 100%
+    }
+    .landing_one_version .about_single_part_area .about_us_content {
+        display: block;
+        float: none;
+        height: 300px !important;
+        width: 100%
+    }
+    .landing_one_version .about_single_part_area .about_text {
+        width: 320px
+    }
+    .landing_one_version .single_footer_widget {
+        margin-bottom: 30px
+    }
+    .minimalist_portfolio .message_title,
+    .minimalist_portfolio .about_us_thumb {
+        margin-top: 30px
+    }
+    .slidea-title-lg {
+        font-size: 3rem
+    }
+    .photography_social_icon {
+        margin-bottom: 60px
+    }
+    .spa_section_heading h2 {
+        font-size: 30px
+    }
+    .spa_version .single_cool_facts {
+        display: block;
+        float: none;
+        margin-bottom: 15px;
+        width: 100%
+    }
+    .spa_version .spa_cool_facts_area {
+        display: block
+    }
+    .spa_version .spa_service_image {
+        padding-bottom: 15px
+    }
+    .spa_version .spa_cta_area {
+        margin-left: -155px;
+        width: 300px
+    }
+    .spa_version .spa_cta_text>h3 {
+        padding: 0 15px
+    }
+    .resume_version .introduction_area {
+        height: 50%;
+        left: 0;
+        top: 0;
+        width: 100%
+    }
+    .resume_version .resume_single_part {
+        height: 25%;
+        width: 50%
+    }
+    .resume_version .profile_area {
+        left: 0;
+        top: 50%
+    }
+    .resume_version .skills_area {
+        left: 50%;
+        top: 50%
+    }
+    .resume_version .portfolio_area {
+        top: 75%;
+        left: 0
+    }
+    .resume_version .contact_area {
+        top: 75%;
+        left: 50%
+    }
+    .resume_version .introduction_text_area h2 {
+        font-size: 24px;
+        margin-bottom: 5px
+    }
+    .introduction_text_area>p {
+        font-size: 14px
+    }
+    .resume_version .resume_social_icon>a {
+        font-size: 20px;
+        margin: 0 5px
+    }
+    .resume_version .resume_single_part_text h3 {
+        font-size: 18px
+    }
+    .resume_version .resume_single_part_text>i {
+        font-size: 16px;
+        height: 40px;
+        line-height: 40px;
+        margin-bottom: 5px;
+        width: 40px
+    }
+    .resume_version .profile-content,
+    .resume_version .skills-content,
+    .resume_version .portfolio-content,
+    .resume_version .contact-content {
+        margin: 0 10px 10px
+    }
+    #profile-animatedModal,
+    #skills-animatedModal,
+    #portfolio-animatedModal,
+    #contact-animatedModal {
+        width: 100% !important
+    }
+    .resume_version .about_me_img {
+        left: 0;
+        margin-bottom: 30px;
+        position: relative;
+        top: 0;
+        width: 100%;
+        z-index: 2
+    }
+    .resume_version .about_me_text {
+        display: block;
+        margin-left: 0;
+        width: 100%
+    }
+    .resume_version .timeline_text_content>h4,
+    .resume_version .timeline_text_content>h5 {
+        font-size: 14px
+    }
+    .restaurant_version .restaurant_slider_text .slidea-title-lg {
+        font-size: 40px
+    }
+    .mean-container .mean-nav {
+        top: 90px
+    }
+    .restaurant_version .contact_form {
+        width: 285px
+    }
+    .restaurant_version .single_food_menu_details {
+        padding: 0 15px 30px
+    }
+    .restaurant_version .single_food_item_img {
+        height: 70px;
+        width: 70px
+    }
+    .restaurant_version .single_food_item_tex {
+        padding-left: 85px
+    }
+    .single_food_item_tex>p {
+        font-size: 14px
+    }
+    .restaurant_version .single_food_menu_nav>a {
+        margin-bottom: 5px;
+        margin-right: 5px;
+        width: calc(50% - 5px)
+    }
+    .restaurant_version .single_food_menu_nav>a>h3 {
+        font-size: 18px
+    }
+    .restaurant_version .single_food_menu_nav>a>p {
+        font-size: 14px
+    }
+    .product_landing .welcome_text_area h2 {
+        font-size: 20px;
+        margin-bottom: 15px
+    }
+    .product_landing .welcome_text_area p {
+        font-size: 14px
+    }
+    .product_landing .welcome_text_area a {
+        font-size: 15px;
+        padding: 5px 10px 5px 30px
+    }
+    .product_landing .welcome_text_area>a>i {
+        font-size: 20px;
+        left: 6px;
+        top: 4px
+    }
+    .product_landing .welcome_area_thumb {
+        margin: 30px 50px 0
+    }
+    .product_landing .section_heading>h2 {
+        font-size: 24px
+    }
+    .product_landing .about_product_thumb {
+        margin-bottom: 50px
+    }
+    .product_landing .key_features_img {
+        margin: 50px auto 0
+    }
+    .product_landing .testimonial_text>p {
+        font-size: 14px
+    }
+    .product_landing .single_extra_feature {
+        width: 100%
+    }
+    .accordions.last {
+        margin-top: 15px
+    }
+    .product_landing .download_app {
+        height: 400px;
+        width: 100%
+    }
+    .product_landing .download_app_text {
+        float: none;
+        text-align: center;
+        width: 100% !important;
+        padding: 15px
+    }
+    .product_landing.our_speciality_area .special_area_description,
+    .product_landing.our_speciality_area .special_img {
+        display: inline-block;
+        float: none;
+        height: 400px;
+        text-align: center;
+        width: 100%
+    }
+    .product_landing .special_text {
+        padding: 15px;
+        width: 100%
+    }
+    .product_landing .special_text>h2 {
+        font-size: 18px
+    }
+    .product_landing .special_area_description a {
+        padding: 5px 10px
+    }
+    .product_landing .about_product_thumb>img {
+        max-width: 300px
+    }
+    .fullscreen_photography_version .slidea .margin-4x {
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+    .fullscreen_photography_version .slidea .padding-4x {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+    .resume_version .single_gallery_item {
+        width: 100%;
+    }
+    .business_startup_wc_text h2 {
+        font-size: 60px;
+    }
+    .business_startup_wc_text>p {
+        font-size: 18px;
+    }
+    .business_startup .cta_text>h2 {
+        font-size: 30px;
+    }
+    nav.bootsnav .megamenu-content .content {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .modal-dialog {
+        width: 450px;
+    }
+}
